@@ -2,4 +2,4 @@
 
 ### About the Task
 
--   Need to create a react app which is able to handle thousands of images upload and show it on the Grid.
+-   I need to create a react app which is able to handle thousands of image uploads and show it on the Grid.
