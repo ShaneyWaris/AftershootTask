@@ -17,3 +17,7 @@
 -   open terminal in that folder
 -   run "npm install"
 -   run "npm start"
+
+### Deployed Link
+
+-   URL: https://aftershoot-task.vercel.app/
